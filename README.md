@@ -12,9 +12,6 @@ Tasks/
 ├── CustomList.java # Custom generic list implementation
 └── Implementation.java # Main driver class with user interface
 
-yaml
-Copy code
-
 ---
 
 ## 🛠 Features
@@ -103,10 +100,3 @@ Understanding encapsulation and modularization in Java.
 
 👩‍💻 Author
 Sai Sujitha Rangisetti
-
-yaml
-Copy code
-
----
-
-Do you want me to also add **sample input-output screenshots** (ASCII style examples for both stack and list)
